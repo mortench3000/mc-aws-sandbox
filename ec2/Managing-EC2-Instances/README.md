@@ -10,3 +10,8 @@ Be sure to set the Lambda function timeout high enough (i.e. 1 minute) so that i
 
 Cron expression: `0 6 ? * MON-FRI *`
 Cron expression: `0 16 ? * MON-FRI *`
+
+### Tags
+
+- `morning-start` - True/False
+- `nightly-stop` - True/False
